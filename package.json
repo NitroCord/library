@@ -1,0 +1,26 @@
+{
+  "name": "nitrocord",
+  "version": "0.0.6",
+  "engines": {
+    "node": ">=4.1.1=2"
+  },
+  "description": "NitroCord is an experimental discord api wrapper primarily designed for discord bots",
+  "main": "nitrocord.js",
+  "scripts": {},
+  "repository": {
+    "url": "https://github.com/nitrocord/lib"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "bots"
+  ],
+  "author": "Thomas Bardsley",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.18.0",
+    "https": "^1.0.0",
+    "ws": "^6.1.2"
+  }
+}
