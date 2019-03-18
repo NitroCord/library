@@ -5,8 +5,13 @@ Nitrocord is a JavaScript based discord API library designed to be the bridge be
 You can read through the Nitrocord documentation ~~[here](https://fatalcenturion.uk/nitrocord/docs/0.1.71/stable)~~ <u>(not ready yet)<u>
 
 **Installation**:
-<li> NPM: <i>npm i nitrocord</i>
-<li>Yarn:  <i>yarn add nitrocord</i>
+NPM:
+
+    npm install nitrocord
+
+Yarn:
+
+    yarn add nitrocord
 
 **NOTES**:
 <u> if something is scored through it has been made deprecated, ignore this unless you are using the version noted next to it or lower</u>
@@ -60,7 +65,7 @@ client.on("Event Name", (data) => {
 # Contact
 you can contact me (the developer) through discord by sending a message in the [Discord server](https://discord.gg/QgcpRYZ)
 
-or alternatively, open 
+or alternatively, open an issue with the ```question``` tag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjEwMTIzXX0=
+eyJoaXN0b3J5IjpbMTgxMzIyNDA4XX0=
 -->
