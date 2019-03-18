@@ -67,5 +67,5 @@ you can contact me (the developer) through discord by sending a message in the [
 
 or alternatively, open an issue with the ```question``` tag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzIyNDA4LC0xMDU2ODIxMjk1XX0=
+eyJoaXN0b3J5IjpbMTgxMzIyNDA4XX0=
 -->
