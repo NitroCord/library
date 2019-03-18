@@ -1,12 +1,12 @@
-# Nitrocord
+# Nitrocord <u>v0.1.78</u>
 Nitrocord is a JavaScript based discord API library designed to be the bridge between your applications and the Discord application.
 
 # Documentation
 You can read through the Nitrocord documentation ~~[here](https://fatalcenturion.uk/nitrocord/docs/0.1.71/stable)~~ <u>(not ready yet)<u>
 
 **Installation**:
-<li> NPM: ``npm i nitrocord``
-<li>Yarn: ``yarn add nitrocord``
+<li> NPM: *npm i nitrocord*
+<li>Yarn:  *yarn add nitrocord*
 
 **NOTES**:
 <u> if something is scored through it has been made deprecated, ignore this unless you are using the version noted next to it or lower</u>
@@ -56,3 +56,7 @@ client.on("Event Name", (data) => {
 
 
 *If you have used the Nitrocord Config Creator tool and saved your token in there then you do not need to provide a token in the login function
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MzY0NjA1MDJdfQ==
+-->
