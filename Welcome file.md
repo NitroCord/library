@@ -5,7 +5,7 @@ Nitrocord is a JavaScript based discord API library designed to be the bridge be
 You can read through the Nitrocord documentation ~~[here](https://fatalcenturion.uk/nitrocord/docs/0.1.71/stable)~~ <u>(not ready yet)<u>
 
 **Installation**:
-<li> NPM: ``npm i nitrocord*
+<li> NPM: *npm i nitrocord*
 <li>Yarn:  *yarn add nitrocord*
 
 **NOTES**:
@@ -58,5 +58,5 @@ client.on("Event Name", (data) => {
 *If you have used the Nitrocord Config Creator tool and saved your token in there then you do not need to provide a token in the login function
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxOTY5OTM5XX0=
+eyJoaXN0b3J5IjpbMTA0ODI2NDg1MV19
 -->
