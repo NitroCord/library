@@ -56,3 +56,8 @@ client.on("Event Name", (data) => {
 
 
 *If you have used the Nitrocord Config Creator tool and saved your token in there then you do not need to provide a token in the login function
+
+# Contact
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTU0NTQ3NzI5XX0=
+-->
